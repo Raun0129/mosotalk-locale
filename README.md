@@ -1,0 +1,1 @@
+# mosotalk-locale
