@@ -1,6 +1,16 @@
 {
-  "Character": {
+  "character": {
     "character": "캐릭터",
-    "hi": "안녕"
+    "birthday_character": "생일인 캐릭터",
+    "profile_image": "프로필 이미지",
+    "creator": "제작자",
+    "name": "이름",
+    "display_name": "표시명",
+    "birthday": "생일",
+    "status_message": "상태 메세지",
+    "tag": "태그",
+    "add": "추가",
+    "search": "검색",
+    "input_here": ""
   }
 }

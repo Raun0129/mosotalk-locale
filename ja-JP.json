@@ -1,6 +1,16 @@
 {
-  "Character": {
+  "character": {
     "character": "character",
-    "hi": "곰방와"
+    "birthday_character": "birthday character",
+    "profile_image": "profile image",
+    "creator": "creator",
+    "name": "name",
+    "display_name": "display name",
+    "birthday": "birthday",
+    "status_message": "status message",
+    "tag": "tag",
+    "add": "add",
+    "search": "search",
+    "input_here": "input_here"
   }
 }
